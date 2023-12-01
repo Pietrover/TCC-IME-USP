@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: dd43b958c5143a3448e518f5bf83debf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 345
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfa072ae21c1b143a713bb71cd7c18b
+      internalID: -161519112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 356
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7848e6fc402afc43b80b0ed6829e7be
+      internalID: 541355452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 348
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7582787be1cd70c468fa9a5bc8c8738f
+      internalID: 1086633479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 354
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac594c335b86b440b57932afcb04e25
+      internalID: 682672238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 426
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c487abaf9be0e24291430d78feaa0cc
+      internalID: -359878916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 233
+        width: 133
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5b54dc6b5b5e64c9519a16ef0c82f4
+      internalID: -999968665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 345
+        width: 187
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be72c39424be32245a8e7a62896716b2
+      internalID: 438627044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 244
+        width: 23
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f51a631340026d459c6ce6b6739d0c4
+      internalID: 1799194351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 244
+        width: 23
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533209ba33b77854dbd86687a2a7ad58
+      internalID: -188462895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 293
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c639bd9be754840979c090d670645e
+      internalID: -54462157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 316
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa93ee2ed840d94ca6bfeddf9f049b5
+      internalID: -173213500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 304
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7083d9c589314b4bb4e04e58251edad
+      internalID: -1198960855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 315
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cb98aad06e0dd42b739984c147ccee
+      internalID: -688095040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 311
+        width: 36
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e313929052d0d140bc30b74aa05f69d
+      internalID: 35498135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 311
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe2ce7a9bd8f1e44a89904d4de48652
+      internalID: 1821906279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 261
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88004e5302282554b8cbd02e7c895798
+      internalID: -1809369600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 249
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c78440f80c37674db5c8a06a45ec56e
+      internalID: 1834597043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 311
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31bad27073f66f4d8d30cedc65d275a
+      internalID: 658941473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 136
+        width: 131
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b730988c54b4246b1d7e46a92a3a1a
+      internalID: 1766736080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 268
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc39973fd7119d45899d9f766faec41
+      internalID: -1902775845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 140
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70235195f1b3e76478539fb99b708ef7
+      internalID: 1750117102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 207
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d757fa3c6b462b47aa8e9dbd7b6f4cd
+      internalID: 1919331380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 144
+        width: 144
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9d7493f948cd54ba25fe246b22e246
+      internalID: -280634747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 146
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3758cfbfc9d7c954695d4cbc9357f359
+      internalID: -1331945924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 147
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1a69f4e6b592f438cbc454572000df
+      internalID: -1552561290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 139
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28639bba2b9e5d4f907bf92c82617d1
+      internalID: -293364306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 175
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e323c1c6c9e5fb429d049d16a72a419
+      internalID: -1469067778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 74
+        width: 80
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6fe1c67414f4240b071b888766160a
+      internalID: 1548652622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 74
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefa406c4c80a364b83c6c90e01ebd2a
+      internalID: -538326855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 74
+        width: 104
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5be53adae899a4b9ca15b678a7668c
+      internalID: 2079527907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 74
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfca14a71aedc0648b2b8b62d6c86a35
+      internalID: 707141069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 11
+        width: 56
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0926aa04836433a4987fc42f73a51443
+      internalID: 1057933434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 73
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e5e7c1dd354748a75753b8b9d7b1a
+      internalID: 515856597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 73
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932b97ce9bd2621418980adb31053a10
+      internalID: -1158153894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434e68108f4148b4e81864b6627b7461
+      internalID: -2050666340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 11
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91682659087e873478d29f0f5748df84
+      internalID: -2043324741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 11
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468ad3f4ac96bb4fb11d4a7af71ecbb
+      internalID: 1433977344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 11
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059463a34415fd44bbc08836e134b243
+      internalID: 909304429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 11
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9dce17204187640b20338853d77459
+      internalID: -1204002108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 11
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14678c7f0d7d6c04e869073d4cde36d5
+      internalID: -1696732593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 11
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd048a4febd59584fa34aba9a87ba207
+      internalID: -1521291036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 11
+        width: 97
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5ae6dc5b615994eb62d9934ad98889
+      internalID: 683670084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_0: -161519112
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_1: 541355452
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_10: -173213500
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_11: -1198960855
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_12: -688095040
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_13: 35498135
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_14: 1821906279
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_15: -1809369600
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_16: 1834597043
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_17: 658941473
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_18: 1766736080
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_19: -1902775845
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_2: 1086633479
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_20: 1750117102
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_21: 1919331380
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_22: -280634747
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_23: -1331945924
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_24: -1552561290
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_25: -293364306
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_26: -1469067778
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_27: 1548652622
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_28: -538326855
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_29: 2079527907
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_3: 682672238
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_30: 707141069
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_31: 1057933434
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_32: 515856597
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_33: -1158153894
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_34: -2050666340
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_35: -2043324741
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_36: 1433977344
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_37: 909304429
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_38: -1204002108
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_39: -1696732593
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_4: -359878916
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_40: -1521291036
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_41: 683670084
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_5: -999968665
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_6: 438627044
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_7: 1799194351
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_8: -188462895
+      DALL_E_2023-11-11_13.30.15_-_Create_a_sprite_sheet_with_a_collection_of_32-bit_pixel_art_items_commonly_found_in_medieval_castles._The_sheet_should_feature_a_variety_of_items_such-removebg-preview_9: -54462157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

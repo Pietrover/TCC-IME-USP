@@ -1,0 +1,6 @@
+File : sNOW
+Author : MikAnimus
+Version :
+		1.0		10/11/23		Creation
+		
+	

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mom
+  - Fox1
+  - Fox2
+  - Fox3
+  - Fox4
+  - Fox5
+  - Princess
+  - King
+  - Bird1
+  - Bird2
+  - Bird3
+  - Bird4
+  - Bird5
+  - Cat1
+  - Cat2
+  - Cat3
+  - Cat4
+  - Cat5
+  - Raccoon1
+  - Raccoon2
+  - Raccoon3
+  - Raccoon4
+  - Raccoon5
+  - Portal
+  - Tree
+  - home
+  - sea
+  - sky
+  - desert
+  - snow
+  - castle-home
+  - castle-sea
+  - castle-sky
+  - castle-desert
+  - castle-snow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - CHARACTER
+  - MAP
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

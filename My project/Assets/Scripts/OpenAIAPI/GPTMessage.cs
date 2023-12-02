@@ -22,7 +22,7 @@ namespace Assets.Scripts.OpenAIAPI
 		{
 			//Gera o path para o arquivo
 			string pathToCurrentDirectory = AppDomain.CurrentDomain.BaseDirectory;
-			string pathToFile = Application.streamingAssetsPath + "/" + file;
+			string pathToFile = Application.streamingAssetsPath + "/CharactersBackground/" + file;
 
 			//Lê o arquivo e faz a mensagem
 			string fileContent;

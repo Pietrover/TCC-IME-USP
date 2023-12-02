@@ -29,7 +29,7 @@ namespace Assets.Scripts.OpenAIAPI
         public async Task<GPTMessage> SendPrompt(List<GPTMessage> promptLoad)
         {
             CompletionRequest completionRequest = new CompletionRequest();
-            completionRequest.temperature = 0.2;
+            completionRequest.temperature = 0.4;
             completionRequest.model = "gpt-3.5-turbo";
             completionRequest.messages = new List<GPTMessage>();
             completionRequest.messages.AddRange(promptLoad);

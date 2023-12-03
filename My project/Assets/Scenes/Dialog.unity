@@ -1574,8 +1574,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 895998317}
   m_HandleRect: {fileID: 895998316}
   m_Direction: 2
-  m_Value: 1.0000004
-  m_Size: 0.5099728
+  m_Value: 1.0000001
+  m_Size: 0.15133291
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1968,7 +1968,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0.92800003}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 14, y: -0.0000743866}
-  m_SizeDelta: {x: -20, y: 289}
+  m_SizeDelta: {x: -20, y: 1000}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1570776116
 MonoBehaviour:
@@ -1990,7 +1990,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: '
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

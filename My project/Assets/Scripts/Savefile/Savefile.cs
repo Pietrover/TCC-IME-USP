@@ -39,18 +39,28 @@ namespace Assets.Scripts
 		//Carrega o arquivo de save
 		public Savefile LoadFile()
 		{
-			string filePath = Application.persistentDataPath + "/savefile.json";
-			//Cria o arquivo se ele não existe
-			if (!File.Exists(filePath))
+			try
 			{
-				Debug.Log("Arquivo não existe");
-				Savefile newsave = NewSavefile();
-				string saveJson = JsonConvert.SerializeObject(newsave);
-				System.IO.File.WriteAllText(Application.persistentDataPath + "/savefile.json", saveJson);
+				string filePath = Application.persistentDataPath + "/savefile.json";
+				Debug.Log(filePath);
+				//Cria o arquivo se ele não existe
+				if (!File.Exists(filePath))
+				{
+					Debug.Log("Arquivo não existe");
+					Savefile newsave = NewSavefile();
+					string saveJson = JsonConvert.SerializeObject(newsave);
+					System.IO.File.WriteAllText(Application.persistentDataPath + "/savefile.json", saveJson);
+				}
+				string json = System.IO.File.ReadAllText(Application.persistentDataPath + "/savefile.json");
+				Savefile data = JsonConvert.DeserializeObject<Savefile>(json);
+				return data;
 			}
-			string json = System.IO.File.ReadAllText(Application.persistentDataPath + "/savefile.json");
-			Savefile data = JsonConvert.DeserializeObject<Savefile>(json);
-			return data;
+			catch(Exception ex)
+			{
+				Debug.LogError(ex.Message);
+				DeleteFile();
+				return NewSavefile();
+			}
 		}
 		//Cria o arquivo de save inicial
 		public Savefile NewSavefile() {

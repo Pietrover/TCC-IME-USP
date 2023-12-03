@@ -27,7 +27,7 @@ public class TextInput : MonoBehaviour
 
 	private void Start()
 	{
-        inputField.onEndEdit.AddListener(OnInputEnd);
+        inputField.onSubmit.AddListener(OnInputEnd);
 		npcId = PlayerPrefs.GetInt("npc");
 		//Atualiza os objetivos caso a condição seja cumprida
 		if(npcId == 0 || npcId == 1)
@@ -43,26 +43,29 @@ public class TextInput : MonoBehaviour
 	// Este código é chamado quando o jogador pressiona Enter. E 'text' contém o texto que o jogador digitou.
 	void OnInputEnd(string text)
 	{
-		//Atualiza o objetivo de endgame caso a condição seja cumprida
-		if (npcId == 2 && text.ToLower().Contains("união") && text.ToLower().Contains("reconciliação") && text.ToLower().Contains("legado") && text.ToLower().Contains("conclusão"))
+		if (text != "")
 		{
-			savefile.UpdateObjective(2);
-		}
-		//Pode apenas falar com a princesa caso certa condição seja cumprida
-		if (npcId == 2 && savefile.LoadFile().objectives[2].status == false)
-		{
-			textOutput.text = "[A PRINCESA ESTÁ MUDA]";
-			Debug.Log("Jogador digitou: " + text);
-			messages.Add(systemMessage.MakeMessageFromInput(text));		
-			inputField.text = "";
-		}
-		else
-		{
-			//Adiciona a mensagem do jogador e envia para a API
-			Debug.Log("Jogador digitou: " + text);
-			messages.Add(systemMessage.MakeMessageFromInput(text));		
-			StartCoroutine("ApiCallCoroutineAsync");
-			inputField.text = "";
+			//Atualiza o objetivo de endgame caso a condição seja cumprida
+			if (npcId == 2 && text.ToLower().Contains("união") && text.ToLower().Contains("reconciliação") && text.ToLower().Contains("legado") && text.ToLower().Contains("conclusão"))
+			{
+				savefile.UpdateObjective(2);
+			}
+			//Pode apenas falar com a princesa caso certa condição seja cumprida
+			if (npcId == 2 && savefile.LoadFile().objectives[2].status == false)
+			{
+				textOutput.text = "[A PRINCESA ESTÁ MUDA]";
+				Debug.Log("Jogador digitou: " + text);
+				messages.Add(systemMessage.MakeMessageFromInput(text));
+				inputField.text = "";
+			}
+			else
+			{
+				//Adiciona a mensagem do jogador e envia para a API
+				Debug.Log("Jogador digitou: " + text);
+				messages.Add(systemMessage.MakeMessageFromInput(text));
+				StartCoroutine("ApiCallCoroutineAsync");
+				inputField.text = "";
+			}
 		}
 	}
 	//Pega o arquivo com as informações do personagem baseado no id

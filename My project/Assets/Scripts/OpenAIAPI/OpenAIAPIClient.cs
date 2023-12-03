@@ -33,7 +33,7 @@ namespace Assets.Scripts.OpenAIAPI
             completionRequest.model = "gpt-3.5-turbo";
             completionRequest.messages = new List<GPTMessage>();
             completionRequest.messages.AddRange(promptLoad);
-            completionRequest.max_tokens = 300;
+            completionRequest.max_tokens = 500;
             string requestString = JsonConvert.SerializeObject(completionRequest);
             var response = await _httpClient.PostAsync("https://api.openai.com/v1/chat/completions", new StringContent(requestString, Encoding.UTF8, "application/json"));
             response.EnsureSuccessStatusCode();

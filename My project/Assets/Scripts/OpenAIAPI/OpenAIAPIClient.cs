@@ -19,7 +19,7 @@ namespace Assets.Scripts.OpenAIAPI
         //Inicia o objeto
         public OpenAIAPIClient()
         {
-            _apiKey = "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";
+            _apiKey = "insert here";
             _httpClient = new HttpClient();
             _httpClient.BaseAddress = new Uri("https://api.openai.com/v1/chat/completions");
             _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", _apiKey);

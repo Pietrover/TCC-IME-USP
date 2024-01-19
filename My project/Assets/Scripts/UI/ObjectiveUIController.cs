@@ -6,7 +6,7 @@ using TMPro;
 using UnityEngine;
 
 //Classe responsável por mostrar os objetivos na tela
-public class ObjectiveUI : MonoBehaviour
+public class ObjectiveUIController : MonoBehaviour
 {
     public TMP_Text objective;
     public Savefile savefile = new Savefile();

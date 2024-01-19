@@ -24,11 +24,10 @@ public class PlayerController : MonoBehaviour
 	{
 		isWalking = false;
 		rb2D = GetComponent<Rigidbody2D>();
-		//atualiza a posiição para a última salva
+		//atualiza a posição para a última salva
 		savefile = new Savefile();
 		savefile = savefile.LoadFile();
 		transform.position = new Vector3(savefile.positionX, savefile.positionY);
-
 	}
 
 	// Update is called once per frame
@@ -46,15 +45,12 @@ public class PlayerController : MonoBehaviour
 			playerAnimator.SetFloat("input_y", input_y);
 		}
 
-		playerAnimator.SetBool("isWalking", isWalking);
-
-		
+		playerAnimator.SetBool("isWalking", isWalking);		
 	}
 
 
 	private void FixedUpdate()
 	{
 		rb2D.MovePosition(rb2D.position + movement * 2f * Time.fixedDeltaTime);
-
 	}
 }

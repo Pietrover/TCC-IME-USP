@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 //Classe responsável por controlar a troca de cenas do jogador
-public class SceneChanger : MonoBehaviour
+public class SceneController : MonoBehaviour
 {
 	Savefile savefile = null;
 	int dialogo = -1;//Indica o personagem de quem o jogador esta proximo

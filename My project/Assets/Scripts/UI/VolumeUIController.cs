@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 //Classe Responsável por controlar o volume da música de fundo
-public class VolumeControllerUI : MonoBehaviour
+public class VolumeUIController : MonoBehaviour
 {
 	public Slider slider;
 	public AudioSource audioSource;

@@ -8,7 +8,7 @@ using System.Collections;
 using Assets.Scripts;
 
 // Classe responsável por controlar o input do jogador e a resposta ao input
-public class TextInput : MonoBehaviour
+public class DialogController : MonoBehaviour
 {
 	//Entrada do jogador
 	public TMP_InputField inputField;

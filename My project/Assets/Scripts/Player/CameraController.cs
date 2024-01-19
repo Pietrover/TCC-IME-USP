@@ -1,7 +1,7 @@
 using UnityEngine;
 
 //Classe responsável por fazer a câmera seguir o jogador
-public class CameraFollow : MonoBehaviour
+public class CameraController : MonoBehaviour
 {
 	public Transform target; // Referência ao objeto que a câmera irá seguir (o jogador nesse caso).
 	public float smoothSpeed = 0.125f; // Velocidade de suavização para que a câmera siga o jogador de forma mais suave.

@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 //Classe responsável por controlar o comportamento da tela inicial
-public class InitialScreen : MonoBehaviour
+public class InitialScreenController : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()

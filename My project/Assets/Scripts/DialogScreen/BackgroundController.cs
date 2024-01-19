@@ -4,7 +4,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 
 // Classe responsável por alterar o fundo da cena de diálogo.
-public class BackgroundChanger : MonoBehaviour
+public class BackgroundController : MonoBehaviour
 {
 	// Lista de fundos disponíveis para serem escolhidos.
 	public List<Sprite> backgrounds;
